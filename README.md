@@ -46,9 +46,9 @@
 
 ## 📊 GitHub Stats
 
-![Murali's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Murali's GitHub stats](https://github-readme-stats.vercel.app/api?username=murali2277&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murali2277&layout=compact&theme=radical)
 
 ---
 
