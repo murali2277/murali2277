@@ -37,21 +37,6 @@
 
 ---
 
-## 🚀 Goals
-
-- 🔒 Develop **secure web applications**
-- 🏗️ Build **robust and strong backend systems**
-
----
-
-## 📊 GitHub Stats
-
-![Murali's GitHub stats](https://github-readme-stats.vercel.app/api?username=murali2277&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murali2277&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([your-link-here](https://www.linkedin.com/in/murali-kumar-s-12994b291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
