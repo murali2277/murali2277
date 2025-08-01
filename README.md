@@ -2,7 +2,7 @@
 
 ### 💡 Python Developer | Backend Enthusiast | Security Learner
 
-📍 **Location:** Dindigul, Tamil Nadu, India  
+📍 **Location:** Tamil Nadu, India  
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)]([your-link-here](https://www.linkedin.com/in/murali-kumar-s-12994b291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
