@@ -1,9 +1,7 @@
 
-# 👋 Hi, I'm Murali Kumar
-
-### 💡 Python Developer | Backend Enthusiast | Security Learner
-
-📍 **Location:** Tamil Nadu, India  
+<h1 align="center">👋 Hi, I'm Murali Kumar</h1>
+<h3 align="center">💡 Python Developer | Backend Enthusiast | Security Learner</h3>
+<p align="center">📍 Tamil Nadu, India</p>
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)]([your-link-here](https://www.linkedin.com/in/murali-kumar-s-12994b291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
