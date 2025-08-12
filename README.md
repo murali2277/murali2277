@@ -38,7 +38,7 @@
 
 ## 📊 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Murali-Kumar-S&bg_color=0d1117&color=ffffff&line=3ECF8E&point=FF6C37&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=murali2277&bg_color=0d1117&color=ffffff&line=3ECF8E&point=FF6C37&area=true&hide_border=true" />
 </p>
 
 ---
