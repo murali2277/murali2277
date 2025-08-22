@@ -36,8 +36,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murali2277&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murali2277&layout=compact&theme=radical&hide_border=true"/>
+  ![Murali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=murali2277&show_icons=true&theme=default)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murali2277&layout=compact&theme=default)
 </p>
 
 ---
