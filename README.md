@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge"/>
 </p>
 
 
