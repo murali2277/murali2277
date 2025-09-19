@@ -63,7 +63,7 @@
   <a href="mailto:0904muralikumar@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
   </a>
-  <a href="https://buildwithmk.netlify.app/">
+  <a href="https://buildwithmk.app/">
     <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&style=for-the-badge" />
   </a>
 </p>
