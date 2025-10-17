@@ -59,7 +59,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/murali-kumar-s-12994b291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>.
+  </a>
   <a href="mailto:0904muralikumar@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
   </a>
