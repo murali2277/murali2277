@@ -5,10 +5,9 @@
 
 ---
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/murali2277/count.svg" alt="Visitor's Count" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=murali2277&color=3ECF8E&style=for-the-badge" alt="Visitor Count" />
+</p>
 
 ---
 
