@@ -5,14 +5,20 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
  <img src="https://hits.sh/github.com/murali2277.svg?style=for-the-badge&label=Visitors" />
-</p>
+</p> -->
+![Visitor Count](https://profile-counter.glitch.me/murali2277/count.svg)
 
 ---
 
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+<p align="center">
+  <a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI">
+    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
+</p>
+
 
 
 ---
@@ -56,7 +62,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=murali2277&show_icons=true&theme=radical&hide_border=true"/>
-  <img width=325 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=murali2277&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Murali Kumar's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murali2277&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
