@@ -11,17 +11,11 @@
   </a>
 </p>
 
-
----
-
-
 <p align="center">
   <a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI">
     <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
   </a>
 </p>
-
-
 
 ---
 
@@ -51,9 +45,6 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge"/>
 </p>
-
-
-
 
 ---
 
