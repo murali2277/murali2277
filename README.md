@@ -5,10 +5,12 @@
 
 ---
 
-<!-- <p align="center">
- <img src="https://hits.sh/github.com/murali2277.svg?style=for-the-badge&label=Visitors" />
-</p> -->
-![Visitor Count](https://profile-counter.glitch.me/murali2277/count.svg)
+<p align="center">
+  <a href="https://github.com/murali2277">
+    <img src="https://komarev.com/ghpvc/?username=murali2277&color=3ECF8E&style=for-the-badge" alt="GitHub Views" />
+  </a>
+</p>
+
 
 ---
 
