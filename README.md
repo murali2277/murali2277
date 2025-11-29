@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=murali2277&color=3ECF8E&style=for-the-badge" alt="Visitor Count" />
+ <img src="https://hits.sh/github.com/murali2277.svg?style=for-the-badge&label=Visitors" />
 </p>
 
 ---
@@ -56,7 +56,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=murali2277&show_icons=true&theme=radical&hide_border=true"/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=murali2277&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+  <img width=325 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=murali2277&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Murali Kumar's Most Used Languages" />
+
 </p>
 
 ---
