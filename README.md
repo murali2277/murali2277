@@ -2,10 +2,20 @@
 <h3 align="center">💡 Python Developer | Backend Enthusiast | Security Learner</h3>
 <p align="center">📍 Tamil Nadu, India</p>
 
+
 ---
-<p align="center">
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{murali2277}/count.svg" alt="Visitor's Count" />
+</div>
+
+---
+
+
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
-</p>
+
+
 ---
 
 ## 💻 Tech Stack
@@ -47,7 +57,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=murali2277&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murali2277&layout=compact&theme=radical&hide_border=true"/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=murali2277&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
 </p>
 
 ---
