@@ -4,6 +4,10 @@
 
 ---
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
+---
+
 ## 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
@@ -63,7 +67,7 @@
   <a href="mailto:0904muralikumar@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
   </a>
-  <a href="https://muralikumar.app/">
+  <a href="https://buildwithmk.app/">
     <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&style=for-the-badge" />
   </a>
 </p>
