@@ -3,9 +3,9 @@
 <p align="center">📍 Tamil Nadu, India</p>
 
 ---
-
+<p align="center">
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
-
+</p>
 ---
 
 ## 💻 Tech Stack
