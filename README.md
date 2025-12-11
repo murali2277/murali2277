@@ -80,3 +80,6 @@
     <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&style=for-the-badge" />
   </a>
 </p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
